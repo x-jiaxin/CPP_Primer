@@ -1,7 +1,7 @@
-#include <iostream>
+#include "demo.h"
 
 int main()
 {
-    std::cout << "Hello, World!" << std::endl;
+    demo();
     return 0;
 }
